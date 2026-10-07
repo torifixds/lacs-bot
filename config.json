@@ -1,0 +1,20 @@
+{
+  "token": "YOUR_DISCORD_TOKEN_HERE",
+  "prefix": "!",
+  "mongoUri": "mongodb+srv://user:password@cluster.mongodb.net/lacs-bot",
+  "robloxApiKey": "YOUR_ROBLOX_API_KEY",
+  "openaiApiKey": "YOUR_OPENAI_API_KEY",
+  "owner": "YOUR_DISCORD_ID",
+  "supportServerId": "YOUR_GUILD_ID",
+  "logsChannelId": "YOUR_LOGS_CHANNEL_ID",
+  "ticketsChannelId": "YOUR_TICKETS_CHANNEL_ID",
+  "verificationChannelId": "YOUR_VERIFICATION_CHANNEL_ID",
+  "economyMultiplier": 1.5,
+  "ticketPrefix": "ticket",
+  "colors": {
+    "success": "#2ecc71",
+    "error": "#e74c3c",
+    "info": "#3498db",
+    "warning": "#f39c12"
+  }
+}
